@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning app dev
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me code6014@gmail.com
+git clone https://github.com/code6014/letusmeet.git && cd letusmeet
 
 <!---
 code6014/code6014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
